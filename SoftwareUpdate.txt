@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
