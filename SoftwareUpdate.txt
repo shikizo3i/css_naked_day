@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+OBB: Fix when training on zip data (#8680)
