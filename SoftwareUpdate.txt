@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add visuals in guides/distance-calculation.md (#7876)
