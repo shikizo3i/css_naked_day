@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
