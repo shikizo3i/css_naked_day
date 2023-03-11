@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
