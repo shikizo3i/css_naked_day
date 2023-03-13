@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+YOLOv8 INT8 TFLite Inference Example (#7317)
