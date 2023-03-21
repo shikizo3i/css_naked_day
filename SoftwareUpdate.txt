@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Rename model_id to model.id (#8447)
