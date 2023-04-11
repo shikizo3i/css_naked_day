@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
