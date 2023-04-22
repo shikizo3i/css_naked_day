@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
