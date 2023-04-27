@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
