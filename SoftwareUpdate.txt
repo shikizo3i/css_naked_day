@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add Weights & Biases Docs integrations page (#7199)
