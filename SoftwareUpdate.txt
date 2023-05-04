@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+OBB: Fix plot_images (#7592)
