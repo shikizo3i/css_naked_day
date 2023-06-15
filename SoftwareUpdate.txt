@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
