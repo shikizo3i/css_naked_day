@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Fix device counting method to account for double-digit device IDs (#8502)
