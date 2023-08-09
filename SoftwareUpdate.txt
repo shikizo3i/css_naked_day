@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Replacing Images for torchscript.md (#8596)
