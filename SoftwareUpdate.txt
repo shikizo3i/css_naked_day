@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
