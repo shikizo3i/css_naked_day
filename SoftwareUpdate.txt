@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add docstrings to new HUB functions (#7576)
