@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
