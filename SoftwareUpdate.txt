@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add docs guide terminal images (#8819)
