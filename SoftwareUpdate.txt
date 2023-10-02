@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix TypeError in check_cfg() (#9245)
