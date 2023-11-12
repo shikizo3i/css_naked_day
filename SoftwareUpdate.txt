@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Avoid creating -hub dir without processing images (#8334)
