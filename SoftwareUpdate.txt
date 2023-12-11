@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
