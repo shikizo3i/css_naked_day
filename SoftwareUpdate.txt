@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Python refactorings and simplifications (#7549)
