@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
