@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
