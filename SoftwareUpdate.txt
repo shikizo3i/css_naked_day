@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Fix IS_PYTHON_3_12 bug (#9258)
