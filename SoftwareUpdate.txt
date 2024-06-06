@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
