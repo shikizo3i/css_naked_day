@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.0.229 add model.embed() method (#7098)
