@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add C++ Classify inference example (#6868)
