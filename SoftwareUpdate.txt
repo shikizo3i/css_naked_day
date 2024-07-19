@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update Twitter icon in Docs (#7711)
