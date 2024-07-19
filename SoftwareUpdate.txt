@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Cleanup Docs languages (#7865)
