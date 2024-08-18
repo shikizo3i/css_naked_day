@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
